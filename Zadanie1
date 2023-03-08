@@ -1,0 +1,32 @@
+Budżet(czas) - 150h
+
+Cel Projektu:
+- stworzenie prostego i przejrzystego interface'u
+- wyświetlanie kebabów w oklicy na podstawie gps lub wybranego adresu
+- wyświetlanie opini i ich dodawanie
+
+Role: 
+- Project Manager
+- programista frontend'owy
+- programista backend'owy
+- tester oprogramowania
+
+Wizja: 
+Stowrzenie aplikacji webowej zawierającej inforamcje o kebabach i w miastach w Polsce,
+   wzbogacone o opinie użytkowników
+
+Wartość biznesowa: 
+Zarobek z reklamam wyświetlanych w czasie korzystania z aplikacji. Kebab jest bardzo dużą
+   popularnością w Polsce, więc baza klientów jest potęcjalnie bardzo duża.
+
+Zakres:
+Aplikacja bedzię posiadała bazę danych o kebabach w Polskich miastach, posiadała moduł
+   rejestracji/logowania i opcję opini użytkowników. Użytkownicy będą posiadali także
+   opcję zgłaszania nowych kebabów
+
+Wskaźnik postępu:
+- Stworzenie projektu aplikacji
+- Stworzenie interface'u aplikacji
+- Stworzenie i zaimplementowanie bazy danych
+- Testowanie aplikacji
+- Oficjalne wydanie aplikacji
