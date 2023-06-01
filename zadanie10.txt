@@ -1,0 +1,26 @@
+Analiza SWOT
+
+Mocne strony:
+-własne oprogramowanie(stały dochód)
+-własny sprzęt
+-niskie koszty utrzymania ze względu na małe miasto
+-kompletna kadra wsparcia zespołu
+
+Słabe strony:
+-mała ilość pracowników na lokalnym rynku
+-ponoszenie kosztów w przypadku awarii
+-utrudnione pozyskiwanie większych klientów
+-brak testerów oprogramowania
+
+Szanse:
+-mała konkurencja na lokalnym rynku
+-łatwiejsze zbudowanie renomy
+-wysoki popyt na IT
+-możliwość oferowania konkurencyjnych cen
+-wielkość firmy umożliwia szybką adaptację do innych warunków
+
+Zagrożenia:
+-nagłe pojawienie się konkurenta na rynku
+-jeden senior
+-zwiększenie kosztów utzymania
+-brak rozwijających zleceń
